@@ -13,3 +13,6 @@ Projeto criado com as bibliotecas React JS e Material UI.
    `
    npm start
    `
+
+#Personalizações realizadas:
+1. 
