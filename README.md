@@ -17,4 +17,9 @@ Projeto criado com as bibliotecas React JS e Material UI.
 #Personalizações realizadas:
 
 
-1. 
+1. Alteração na cor do cabeçalho
+2. Alteração na cor do fundo do form
+3. Centralização do título
+
+![image](https://github.com/VivianeLopesA/CheckAtividades/assets/123180148/29d54ef8-c06c-4292-8ce1-df7de20f24c7)
+
