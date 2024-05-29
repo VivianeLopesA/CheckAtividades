@@ -87,10 +87,21 @@ const ListarTarefa = () => {
         <CardHeader
           title="Tarefas"
           subheader="Listagem de Tarefas"
+          sx={{
+            textAlign: 'center',
+            '.MuiCardHeader-title': { // Alinhamento para o título
+              textAlign: 'center',
+              width: '100%',
+            },
+            '.MuiCardHeader-subheader': { // Alinhamento para o subheader
+              textAlign: 'center',
+              width: '100%',
+            }
+          }}
         /> 
         <CardContent>
             <TableContainer component={Paper}>
-            <Table sx={{ minWidth: 650 }} size="small" aria-label="a dense table">
+            <Table sx={{ minWidth: 650, backgroundColor: '#90caf9' }} size="small" aria-label="a dense table">
                 <TableHead>
                 <TableRow>
                     <TableCell>#</TableCell>
